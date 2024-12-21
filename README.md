@@ -1,6 +1,6 @@
 ![header](https://github.com/YuanYeYouTao/YuanYeYouTao/blob/main/header.png)
 [![YuanYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuanYeYouTao&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanYeYouTao&theme=radical&layout=compact){:height="100px" width="400px"}
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuanYeYouTao&theme=radical&layout=compact)
 <!--
 **YuanYeYouTao/YuanYeYouTao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
