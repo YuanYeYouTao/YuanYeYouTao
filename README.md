@@ -1,21 +1,13 @@
-![header](https://github.com/YuanYeYouTao/YuanYeYouTao/blob/main/header.png)
+<h1 align="center">YuanYeYouTao</h1>
+
+<p align="center">
+  I am a mathematics graduate from Fuzhou University with a particular interest in pure mathematics.<br />
+  My interests include algebraic geometry, AI for Mathematics (AI4Math), and AI agents.
+</p>
+
+<br />
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=YuanYeYouTao&amp;show_icons=true&amp;include_all_commits=true&amp;theme=transparent&amp;hide_border=true" alt="YuanYeYouTao's GitHub statistics" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YuanYeYouTao&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;theme=transparent&amp;hide_border=true" alt="YuanYeYouTao's top languages" />
 </p>
-
-<!--
-**YuanYeYouTao/YuanYeYouTao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
