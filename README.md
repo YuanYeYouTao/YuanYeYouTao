@@ -2,7 +2,11 @@
 
 <p align="center">
   I am a mathematics graduate from Fuzhou University with a particular interest in pure mathematics.<br />
-  My interests include algebraic geometry, AI for Mathematics (AI4Math), and AI agents.
+  My interests include topology, algebraic geometry, AI for Mathematics (AI4Math), and AI agents.
+</p>
+
+<p align="center">
+  Gmail: <a href="mailto:heheeryila@gmail.com">heheeryila@gmail.com</a>
 </p>
 
 <br />
