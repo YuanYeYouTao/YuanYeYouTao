@@ -4,16 +4,16 @@
 
 <p>
   <b>👋 I’m YuanYeYouTao. I build AI agents and developer tools.</b><br/>
-  <b>🌱 I’m the Owner of <a href="https://github.com/YuanYeYouTao/Yuki-QQbot">Yuki-QQbot</a>, a self-hosted QQ AI agent with long-term memory.</b><br/>
+  <b>🌱 I’m the Owner of <a href="https://github.com/YuanYeYouTao/Yuki">Yuki</a>, an open-source social AI agent for real QQ conversations.</b><br/>
   <b>🤝 I’m a Core Developer of <a href="https://github.com/Hilbert-beinghappy/seektty">SeekTTY</a>, a terminal workspace for DeepSeek Harness.</b><br/>
-  <b>🧩 My focus: agent runtimes, persistent memory, tool use, MCP, and terminal interfaces.</b><br/>
+  <b>🧩 My focus: persistent social agents, long-term memory, durable work, MCP, and terminal interfaces.</b><br/>
   <b>⚡ I care about reliable systems, clear permission boundaries, and thoughtful developer experiences.</b>
 </p>
 <br/>
 
 <p>
-  <a href="https://github.com/YuanYeYouTao/Yuki-QQbot">
-    <img src="https://img.shields.io/badge/Owner-Yuki--QQbot-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Yuki-QQbot owner"/>
+  <a href="https://github.com/YuanYeYouTao/Yuki">
+    <img src="https://img.shields.io/badge/Owner-Yuki-7c3aed?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Yuki owner"/>
   </a>
   <a href="https://github.com/Hilbert-beinghappy/seektty">
     <img src="https://img.shields.io/badge/Core_Developer-SeekTTY-0ea5e9?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="SeekTTY core developer"/>
@@ -33,12 +33,13 @@
 <h1 align="center">🚀 Projects &amp; Collaboration</h1>
 
 <div align="center">
-  <h2><a href="https://github.com/YuanYeYouTao/Yuki-QQbot">Yuki-QQbot</a></h2>
+  <h2><a href="https://github.com/YuanYeYouTao/Yuki">Yuki</a></h2>
   <p><b>Role: Owner</b></p>
-  <p>A self-hosted QQ AI agent built around long-term relationships and memory. Its identity, conversations, and memories persist across QQ accounts and gateway providers.</p>
-  <p>Long-term memory · Bounded tool use · Automation · Plugins · MCP</p>
+  <p>An open-source, self-hosted social AI agent that stays present in QQ private chats and groups. Yuki remembers people and shared experiences, maintains relationships, and keeps her identity across changes of model, QQ account, or gateway.</p>
+  <p>Long-term memory · Voice and media understanding · Background tasks · Automation · Plugins and MCP</p>
+  <p>An optional, separately deployed persistent workspace lets Yuki keep projects and files, run code, and return to work across messages. Optional group-chat observation and autonomous participation are being evaluated on the main branch.</p>
   <br/>
-  <a href="https://github.com/YuanYeYouTao/Yuki-QQbot/releases/latest"><img src="https://img.shields.io/github/v/release/YuanYeYouTao/Yuki-QQbot?style=flat-square&amp;label=Release" alt="Latest Yuki-QQbot release"/></a>
+  <a href="https://github.com/YuanYeYouTao/Yuki/releases/latest"><img src="https://img.shields.io/github/v/release/YuanYeYouTao/Yuki?style=flat-square&amp;label=Release" alt="Latest Yuki release"/></a>
   <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python 3.12"/>
   <img src="https://img.shields.io/badge/NoneBot2-OneBot_v11-EA5252?style=flat-square" alt="NoneBot2 and OneBot v11"/>
   <img src="https://img.shields.io/badge/MCP-Tool_Integration-7C3AED?style=flat-square" alt="MCP"/>
