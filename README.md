@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/Email-Contact_Me-ea4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
   </a>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=YuanYeYouTao&amp;style=for-the-badge" alt="Profile views"/>
+  <img src="https://api.visitorbadge.io/api/VisitorHit?user=YuanYeYouTao&amp;repo=YuanYeYouTao&amp;label=PROFILE%20VIEWS&amp;countColor=%237c3aed" alt="Profile views"/>
 </p>
 <br/>
 
@@ -65,13 +65,13 @@
 <h1 align="center">📊 GitHub Stats</h1>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YuanYeYouTao&amp;theme=transparent" alt="YuanYeYouTao's GitHub profile details"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=YuanYeYouTao&amp;theme=transparent&amp;hide_border=true" alt="YuanYeYouTao's contribution streak"/>
   <br/>
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/YuanYeYouTao?theme=dracula&amp;cardType=level-alternate" alt="YuanYeYouTao's GitHub stats"/>
   <br/>
   <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Medium.gif" width="100%" alt="RGB divider"/>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YuanYeYouTao&amp;theme=transparent" alt="Top languages by repository"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YuanYeYouTao&amp;theme=transparent" alt="Top languages by commit"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=YuanYeYouTao&amp;layout=donut&amp;langs_count=6&amp;theme=transparent&amp;hide_border=true" alt="Top languages by code size"/>
   <img src="https://raw.githubusercontent.com/Mayur-Pagote/README_Design_Kit/main/public/Assets/RGB%20Line%20Medium.gif" width="100%" alt="RGB divider"/>
   <br/>
   <img src="https://github-trophies.vercel.app/?username=YuanYeYouTao" alt="YuanYeYouTao's GitHub trophies"/>
